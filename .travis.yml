@@ -1,0 +1,17 @@
+language: python
+branches:
+  only:
+  - source
+before_install:
+- openssl aes-256-cbc -K $encrypted_66e29f965e1d_key -iv $encrypted_66e29f965e1d_iv
+  -in deploy_key.enc -out id_rsa.pub -d
+install:
+- pip install -r requirements.txt
+before_script:
+- pelican-themes -i ./theme/cebong
+script:
+- make publish github
+env:
+  global: 
+    ENCRYPTION_LABEL: "66e29f965e1d"
+    COMMIT_AUTHOR_EMAIL: "braunmagrin@gmail.com"
