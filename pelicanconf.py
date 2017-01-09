@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = 'cebong'
+THEME = 'theme/cebong'
 # SITETAGLINE = "Text to be displayed below the site's title"
 # FOOTERTEXT = "TEXT to be displayed in the footer"
 
