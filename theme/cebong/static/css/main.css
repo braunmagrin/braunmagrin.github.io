@@ -88,6 +88,9 @@ h1 a:hover {
     background-color: inherit
 }
 	
+.footnote {
+    font-size: 13px;
+}
 /* Paragraphs */
 p {margin-bottom: 1.143em;}
 
