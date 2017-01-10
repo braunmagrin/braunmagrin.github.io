@@ -22,3 +22,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 DISQUS_SITENAME = "braunmagrins-blog.disqus.com"
 # GOOGLE_ANALYTICS = ""
+
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/README.md': {'path': 'README.md'}}
+
