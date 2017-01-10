@@ -16,10 +16,6 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans+Mono);
 /***** Global *****/
 /* Body */
-.footnote {
-    font-size: 13px;
-}
-
 body {
     background: #FDF6E3;
     color: #8A887B;
