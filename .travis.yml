@@ -9,6 +9,7 @@ before_install:
 - echo "  IdentityFile ~/.ssh/deploy_key" >> ~/.ssh/config
 - git remote set-url origin git@github.com:braunmagrin/braunmagrin.github.io.git
 - git fetch origin -f master:master
+- git config --global user.name "Travis CI"
 install:
 - pip install -r requirements.txt
 script:
