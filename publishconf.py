@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = ''
+SITEURL = 'http://braunmagrin.com'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -23,5 +23,5 @@ DELETE_OUTPUT_DIRECTORY = True
 DISQUS_SITENAME = "braunmagrins-blog.disqus.com"
 # GOOGLE_ANALYTICS = ""
 
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/README.md': {'path': 'README.md'}}
-
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
