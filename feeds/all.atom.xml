@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>braunmagrin's Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2016-07-11T00:00:00-03:00</updated><entry><title>Paulo Freire, responsibility and data science</title><link href="/paulo-freire-responsibility-and-data-science.html" rel="alternate"></link><published>2016-07-11T00:00:00-03:00</published><author><name>Matheus Braun Magrin</name></author><id>tag:,2016-07-11:paulo-freire-responsibility-and-data-science.html</id><summary type="html">&lt;p&gt;I'd like to start this post (and this blog) with a quote:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>braunmagrin's Blog</title><link href="http://braunmagrin.com/" rel="alternate"></link><link href="http://braunmagrin.com/feeds/all.atom.xml" rel="self"></link><id>http://braunmagrin.com/</id><updated>2016-07-11T00:00:00-03:00</updated><entry><title>Paulo Freire, responsibility and data science</title><link href="http://braunmagrin.com/paulo-freire-responsibility-and-data-science.html" rel="alternate"></link><published>2016-07-11T00:00:00-03:00</published><author><name>Matheus Braun Magrin</name></author><id>tag:braunmagrin.com,2016-07-11:paulo-freire-responsibility-and-data-science.html</id><summary type="html">&lt;p&gt;I'd like to start this post (and this blog) with a quote:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;"(...) The more I train myself as a professional, the more I systematize my
 experiences, the more I make use of the cultural heritage, which is everyone's
@@ -36,7 +36,7 @@ available.&lt;/p&gt;
 I would create this blog I listed the topics I like, and therefore, that I would like
 to study and share with you. I've created a mind map that you can see below. I guess
 it'll take a while, but someday I'll talk about them all.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Subjects mind map" src="/images/mindmap_transparent.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Subjects mind map" src="http://braunmagrin.com/images/mindmap_transparent.png" /&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
@@ -51,7 +51,7 @@ responsabilidade com os homens." Paulo Freire in Educação e Mudança, p.20&amp
 at least one of the most cited ones according to &lt;a href="http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/"&gt;this study&lt;/a&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref:2" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="education"></category><category term="knowledge"></category><category term="learning"></category><category term="sharing"></category><category term="free/libre and open"></category></entry><entry><title>Paulo Freire, responsabilidade e ciência de dados</title><link href="/paulo-freire-responsibility-and-data-science-pt.html" rel="alternate"></link><published>2016-07-11T00:00:00-03:00</published><author><name>Matheus Braun Magrin</name></author><id>tag:,2016-07-11:paulo-freire-responsibility-and-data-science-pt.html</id><summary type="html">&lt;p&gt;Eu gostaria de começar esse texto (e esse blog) com uma citação:&lt;/p&gt;
+&lt;/div&gt;</summary><category term="education"></category><category term="knowledge"></category><category term="learning"></category><category term="sharing"></category><category term="free/libre and open"></category></entry><entry><title>Paulo Freire, responsabilidade e ciência de dados</title><link href="http://braunmagrin.com/paulo-freire-responsibility-and-data-science-pt.html" rel="alternate"></link><published>2016-07-11T00:00:00-03:00</published><author><name>Matheus Braun Magrin</name></author><id>tag:braunmagrin.com,2016-07-11:paulo-freire-responsibility-and-data-science-pt.html</id><summary type="html">&lt;p&gt;Eu gostaria de começar esse texto (e esse blog) com uma citação:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;"(...)  Quanto mais me capacito como profissional, quanto mais sistematizo
 minhas experiências, quanto mais me utilizo do patrimônio cultural, que é
@@ -89,7 +89,7 @@ todo mundo.&lt;/p&gt;
 criaria esse blog eu listei os assuntos que eu gosto, e portanto, que eu gostaria de estudar
 e compartilhar. Eu criari um mapa mental que pode ser visto abaixo. Acho que vai demorar, mas
 um dia eu vou conseguir falar sobre eles todos.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Mapa mental dos assuntos" src="/images/mindmap_transparent.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Mapa mental dos assuntos" src="http://braunmagrin.com/images/mindmap_transparent.png" /&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
