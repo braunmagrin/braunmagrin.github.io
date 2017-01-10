@@ -3,12 +3,14 @@ branches:
   only:
   - source
 before_install:
-- openssl aes-256-cbc -K $encrypted_66e29f965e1d_key -iv $encrypted_66e29f965e1d_iv
-  -in deploy_key.enc -out deploy_key -d
+- openssl aes-256-cbc -K $encrypted_66e29f965e1d_key -iv $encrypted_66e29f965e1d_iv -in deploy_key.enc -out ~/.ssh/deploy_key -d
+- chmod u=rw,og= ~/.ssh/deploy_key
+- echo "Host github.com" >> ~/.ssh/config
+- echo "  IdentityFile ~/.ssh/deploy_key" >> ~/.ssh/config
+- git remote set-url origin git@github.com:braunmagrin/braunmagrin.github.io.git
+- git fetch origin -f master:master
 install:
 - pip install -r requirements.txt
-before_script:
-- pelican-themes -i ./theme/cebong
 script:
 - make publish github
 env:
