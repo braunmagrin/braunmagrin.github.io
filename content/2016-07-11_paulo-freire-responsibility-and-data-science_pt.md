@@ -3,6 +3,7 @@ Category: Educação
 Tags: educação, conhecimento, aprendizagem, compartilhar, livre/aberto
 Lang: pt
 Status: published
+Picture: images/mindmap_transparent.png
 
 
 Eu gostaria de começar esse texto (e esse blog) com uma citação:
@@ -49,12 +50,14 @@ todo mundo.
 
 ## Sobre o que esse blog vai ser esse blog?
 
-Aqui vou você vai ver textos sobre vários assuntos. Quando eu ainda estava pensando se eu
-criaria esse blog eu listei os assuntos que eu gosto, e portanto, que eu gostaria de estudar
-e compartilhar. Eu criari um mapa mental que pode ser visto abaixo. Acho que vai demorar, mas
-um dia eu vou conseguir falar sobre eles todos.
+Aqui vou você vai ver textos sobre vários assuntos, mas a ideia é manter o foco em ciência de
+dados. Quando eu ainda estava pensando se eu criaria esse blog eu listei os assuntos que eu
+gosto, e portanto, que eu gostaria de estudar e compartilhar. Eu criei um mapa mental[^2] que
+pode ser visto abaixo. Acho que vai demorar, mas um dia eu vou conseguir falar sobre eles todos.
 
 ![Mapa mental dos assuntos]({filename}/images/mindmap_transparent.png)
 
 
 [^1]: _Free/Libre and Open Source Software_, Software livre e de código aberto.
+
+[^2]: Este mapa mental foi criado utilizando [MindMup](https://www.mindmup.com/).

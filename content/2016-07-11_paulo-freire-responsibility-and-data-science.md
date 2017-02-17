@@ -3,6 +3,7 @@ Category: Education
 Tags: education, knowledge, learning, sharing, free/libre and open
 Lang: en
 Status: published
+Picture: images/mindmap_transparent.png
 
 
 I'd like to start this post (and this blog) with a quote:
@@ -48,10 +49,10 @@ available.
 
 ## What is this blog about?
 
-Here you can expect to see posts about a lot of topics. When I was still thinking if
-I would create this blog I listed the topics I like, and therefore, that I would like
-to study and share with you. I've created a mind map that you can see below. I guess
-it'll take a while, but someday I'll talk about them all.
+Here you can expect to see posts about a lot of topics, but the ideia is to keep the main
+focus on Data Science. When I was still thinking if I would create this blog I listed the
+topics I like, and therefore, that I would like to study and share with you. I've created
+a mind map[^3] that you can see below. I guess it'll take a while, but someday I'll talk about them all.
 
 ![Subjects mind map]({filename}/images/mindmap_transparent.png)
 
@@ -64,3 +65,5 @@ responsabilidade com os homens." Paulo Freire in Educação e Mudança, p.20
 
 [^2]: Paulo Freire is a Brazilian educator. Arguably one of the most influential,
 at least one of the most cited ones according to [this study](http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/).
+
+[^3]: This mind map was created using [MindMup](https://www.mindmup.com/).

@@ -16,6 +16,6 @@ isn't ready yet!
 
 Blog
 ====
-This blog is going to be about a lot of stuff. You can have a look at the
+This blog is going to be about a lot of stuff, but mainly Data Science. You can have a look at the
 [blog's first post]({filename}/2016-07-11_paulo-freire-responsibility-and-data-science.md),
 which explains why I've created it.
